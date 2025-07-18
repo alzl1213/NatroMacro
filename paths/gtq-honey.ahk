@@ -50,3 +50,6 @@ else
 	nm_Walk(3, BackKey)
 	nm_Walk(11, RightKey)
 }
+
+home.("reset")
+
